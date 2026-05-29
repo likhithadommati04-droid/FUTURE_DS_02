@@ -1,0 +1,101 @@
+CustomerID,Gender,Age,ContractType,MonthlyCharges,TenureMonths,PaymentMethod,Churn
+CUST001,Female,48,Two Year,109,69,Electronic Check,No
+CUST002,Female,58,One Year,113,59,Bank Transfer,Yes
+CUST003,Male,42,Month-to-Month,65,39,Bank Transfer,Yes
+CUST004,Female,33,Two Year,51,62,Electronic Check,No
+CUST005,Male,53,Two Year,59,41,Electronic Check,Yes
+CUST006,Male,30,Month-to-Month,66,6,Electronic Check,Yes
+CUST007,Male,26,One Year,109,62,Bank Transfer,No
+CUST008,Female,64,Month-to-Month,39,1,Bank Transfer,Yes
+CUST009,Female,64,One Year,85,28,Bank Transfer,No
+CUST010,Male,23,Month-to-Month,25,31,Bank Transfer,Yes
+CUST011,Female,36,Two Year,50,47,Electronic Check,No
+CUST012,Female,31,Two Year,79,11,Electronic Check,No
+CUST013,Female,30,One Year,96,56,Credit Card,No
+CUST014,Male,53,Two Year,66,16,Bank Transfer,Yes
+CUST015,Male,49,One Year,89,20,Electronic Check,No
+CUST016,Male,29,One Year,120,6,Credit Card,No
+CUST017,Male,30,One Year,52,35,Bank Transfer,No
+CUST018,Male,29,One Year,70,45,Credit Card,Yes
+CUST019,Female,48,One Year,63,68,Electronic Check,No
+CUST020,Female,55,One Year,81,70,Bank Transfer,No
+CUST021,Male,39,Two Year,109,44,Credit Card,No
+CUST022,Male,65,One Year,37,34,Bank Transfer,No
+CUST023,Female,55,Two Year,59,40,Electronic Check,No
+CUST024,Male,26,Two Year,36,26,Electronic Check,No
+CUST025,Female,30,One Year,69,46,Electronic Check,No
+CUST026,Female,31,Month-to-Month,115,17,Credit Card,Yes
+CUST027,Male,61,Month-to-Month,45,31,Credit Card,No
+CUST028,Female,20,Month-to-Month,54,21,Bank Transfer,No
+CUST029,Female,38,Two Year,78,34,Bank Transfer,No
+CUST030,Male,46,Two Year,82,61,Bank Transfer,Yes
+CUST031,Female,25,Two Year,113,65,Credit Card,No
+CUST032,Female,38,Month-to-Month,21,48,Credit Card,Yes
+CUST033,Male,24,One Year,108,57,Electronic Check,No
+CUST034,Male,30,Two Year,57,25,Bank Transfer,No
+CUST035,Male,20,Two Year,88,58,Bank Transfer,Yes
+CUST036,Female,31,Month-to-Month,59,52,Credit Card,Yes
+CUST037,Male,34,One Year,105,9,Bank Transfer,No
+CUST038,Male,43,Month-to-Month,55,31,Credit Card,Yes
+CUST039,Female,38,One Year,66,16,Electronic Check,Yes
+CUST040,Female,44,One Year,119,42,Credit Card,No
+CUST041,Male,34,Month-to-Month,85,26,Bank Transfer,Yes
+CUST042,Male,43,Two Year,83,19,Bank Transfer,Yes
+CUST043,Female,30,Month-to-Month,81,37,Electronic Check,Yes
+CUST044,Female,50,Two Year,101,1,Credit Card,Yes
+CUST045,Female,55,Month-to-Month,48,2,Electronic Check,Yes
+CUST046,Female,30,Two Year,44,39,Credit Card,No
+CUST047,Male,25,Month-to-Month,26,11,Bank Transfer,Yes
+CUST048,Female,21,One Year,92,57,Electronic Check,Yes
+CUST049,Male,54,One Year,78,2,Electronic Check,No
+CUST050,Male,29,Two Year,114,38,Credit Card,No
+CUST051,Female,58,One Year,89,30,Electronic Check,No
+CUST052,Male,49,One Year,110,61,Credit Card,Yes
+CUST053,Male,37,Two Year,114,42,Bank Transfer,No
+CUST054,Female,40,One Year,59,2,Electronic Check,No
+CUST055,Female,47,Month-to-Month,60,28,Electronic Check,Yes
+CUST056,Female,29,Month-to-Month,32,24,Electronic Check,Yes
+CUST057,Female,54,Two Year,78,45,Bank Transfer,No
+CUST058,Male,56,One Year,91,49,Bank Transfer,No
+CUST059,Male,63,One Year,79,70,Credit Card,No
+CUST060,Male,36,One Year,45,58,Electronic Check,Yes
+CUST061,Male,48,One Year,25,56,Electronic Check,Yes
+CUST062,Male,60,One Year,69,48,Bank Transfer,No
+CUST063,Female,59,One Year,64,19,Credit Card,No
+CUST064,Female,23,Two Year,90,55,Bank Transfer,Yes
+CUST065,Male,45,Two Year,68,11,Credit Card,No
+CUST066,Male,58,Two Year,25,5,Credit Card,Yes
+CUST067,Female,20,Month-to-Month,37,66,Bank Transfer,Yes
+CUST068,Female,34,Two Year,79,15,Credit Card,No
+CUST069,Male,42,One Year,112,47,Bank Transfer,No
+CUST070,Male,35,Two Year,93,46,Bank Transfer,No
+CUST071,Male,60,Month-to-Month,60,46,Electronic Check,Yes
+CUST072,Male,37,One Year,77,23,Electronic Check,No
+CUST073,Male,57,One Year,65,33,Electronic Check,No
+CUST074,Female,63,One Year,39,26,Bank Transfer,No
+CUST075,Male,29,Month-to-Month,42,28,Bank Transfer,No
+CUST076,Female,34,One Year,54,22,Electronic Check,No
+CUST077,Male,50,Month-to-Month,35,24,Bank Transfer,Yes
+CUST078,Male,35,Month-to-Month,58,72,Credit Card,Yes
+CUST079,Male,55,Two Year,87,33,Bank Transfer,Yes
+CUST080,Male,23,Month-to-Month,32,62,Credit Card,No
+CUST081,Male,40,One Year,110,37,Electronic Check,No
+CUST082,Male,26,Month-to-Month,101,23,Bank Transfer,Yes
+CUST083,Female,26,One Year,43,62,Credit Card,No
+CUST084,Female,28,Month-to-Month,120,65,Credit Card,No
+CUST085,Male,31,One Year,119,66,Electronic Check,No
+CUST086,Female,33,Two Year,50,38,Electronic Check,No
+CUST087,Female,60,One Year,70,56,Credit Card,No
+CUST088,Male,51,Two Year,45,21,Electronic Check,No
+CUST089,Male,44,Month-to-Month,33,30,Bank Transfer,Yes
+CUST090,Female,18,Two Year,82,39,Bank Transfer,No
+CUST091,Female,43,One Year,31,33,Credit Card,Yes
+CUST092,Female,63,One Year,35,2,Bank Transfer,No
+CUST093,Female,59,One Year,87,31,Electronic Check,No
+CUST094,Male,48,One Year,48,61,Bank Transfer,Yes
+CUST095,Male,43,One Year,34,28,Bank Transfer,Yes
+CUST096,Male,25,One Year,73,52,Electronic Check,Yes
+CUST097,Male,48,Two Year,91,17,Credit Card,Yes
+CUST098,Male,49,One Year,52,54,Bank Transfer,Yes
+CUST099,Female,61,Two Year,50,32,Bank Transfer,Yes
+CUST100,Male,38,Month-to-Month,120,31,Bank Transfer,No
